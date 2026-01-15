@@ -56,7 +56,7 @@ const About = () => {
                             className="Welcome-box px-[15px] py-[8px] z-[20] brder my-[20px] border-[#7042f88b] opacity-[0.9]"
                         >
                             <h1 className="Welcome-text text-[20px] font-bold">
-                                Jenin Joseph
+                                Ankit Singh
                             </h1>
                         </motion.div>
                     )}
@@ -72,19 +72,14 @@ const About = () => {
                             className="Welcome-box px-[15px] w-[90%] md:w-3/4 py-[8px] z-[20] brder mb-[20px] border-[#7042f88b] opacity-[0.9]"
                         >
                             <h1 className="Welcome-text text-[16px] w-full text-justify">
-                                As a passionate Full Stack Developer with
-                                expertise in React, TypeScript, Django, REST,
-                                HTML, and CSS, I excel in crafting seamless
-                                digital experiences. My journey includes roles
-                                as a MuLearn Intern, Union Chairman at SNGIST,
-                                and CEO at SNGIST IEDC, where I&apos;ve driven
-                                innovation and led digital transformations. As a
-                                leader, I&apos;ve empowered teams towards
-                                excellence and fostered an entrepreneurial
-                                spirit. I&apos;m keen to connect with
-                                like-minded tech enthusiasts and visionaries to
-                                explore new opportunities and push the
-                                boundaries of innovation.
+                                As a passionate Full Stack Developer and AI/ML enthusiast with
+                                expertise in React, Next.js, TypeScript, Python, and modern web technologies,
+                                I excel in creating innovative digital solutions. Specializing in bot development
+                                and automation, I bring ideas to life through clean code and cutting-edge technology.
+                                With a strong foundation in both frontend and backend development,
+                                I craft seamless user experiences and robust applications.
+                                I&apos;m always eager to learn, explore new technologies, and collaborate
+                                with fellow developers to build amazing projects that make a difference.
                             </h1>
                         </motion.div>
                     )}

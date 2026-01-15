@@ -110,19 +110,16 @@ const HeroContent = () => {
                                     className="text-sm md:text-md text-gray-400 my-5 max-w-[650px] z-30"
                                 >
                                     <li>
-                                        Finalist in the Top 100 Coders Challenge
+                                        Expert in AI/ML and Bot Development
                                     </li>
                                     <li>
-                                        Ranked within the Top 9,000 on
-                                        HackerRank
+                                        Full Stack Developer with Modern Technologies
                                     </li>
                                     <li>
-                                        Participated and Completed Hacktoberfest
-                                        2023
+                                        Passionate about Creating Innovative Solutions
                                     </li>
                                     <li>
-                                        Served as a Mentor in Multiple
-                                        Hackathons.
+                                        Open Source Contributor and Tech Enthusiast
                                     </li>
                                 </motion.div>
                             )}

@@ -1,7 +1,8 @@
 {
-  "name": "portfolio",
-  "version": "0.1.0",
+  "name": "ankit-singh-portfolio",
+  "version": "1.0.0",
   "private": true,
+  "author": "Ankit Singh (ankitbotmaker)",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
